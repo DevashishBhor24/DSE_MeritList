@@ -1,0 +1,32 @@
+AE 04 0401 Automobile Engineering
+CE 02 0201 Civil Engineering
+CH 01 0101 Chemical Engineering
+CH 01 0101 Petro-Chemical Engineering
+CM 03 0301 Computer Technology
+CO 03 0301 Computer Engineering
+CS 02 0201 Construction Technology
+CW 03 0331 Computer Science And Engineering
+DE 03 0302 Digital Electronics
+EE 03 0304 Electrical Engineering
+EJ 03 0302 Electronics Tele-Communication Engineering
+EN 03 0302 Digital Electronics
+EN 03 0302 Industrial Electronics
+EN 03 0302 Electronics
+EN 03 0303 Medical Electronics
+EP 03 0304 Electrical Power System
+EQ 03 0302 Electronics and Communication Engineering 
+EX 03 0302 Electronics Engineering
+IE 03 0302 Industrial Electronics
+IF 03 0301 Information Technology
+IS 03 0305 Instrumentation
+ME 04 0401 Mechanical Engineering
+MU 03 0303 Medical Electronics
+PG 04 0402 Production Engineering
+PG 09 0901 Production Engineering
+PS 01 0102 Plastic Engineering
+PS 01 0102 Polymer and Plastic Engineering
+PT 04 0402 Production Technology
+TC 07 0701 Man made Textile Technology
+TC 07 0702 Textile Technology
+PN 06 0601 Printing Technology
+SC 01 0105 Surface Coating Technology
