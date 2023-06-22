@@ -18,7 +18,7 @@
 ## Authors
 
 - [@DevashishBhor24] (https://www.github.com/DevashishBhor24)
-- 
+
 # Abstract
 Students get Suspensed for the merit list after MSBTE or any university releases their last year result.
 And students are in hurry so to predict their college.
