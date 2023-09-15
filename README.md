@@ -12,7 +12,7 @@
 
 ## Live
 
-[Live Execution YouTube Video]([https://lapcomme.ddns.net](https://www.youtube.com/watch?v=IyT9TguJiuo))
+Live Execution YouTube Video - https://youtu.be/IyT9TguJiuo
 
 
 ## Authors
